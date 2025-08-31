@@ -1,0 +1,8 @@
+# Python dependencies for Crop Recommendation System
+
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+streamlit   # for web interface (to be implemented in Week 3)
