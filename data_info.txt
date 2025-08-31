@@ -1,0 +1,28 @@
+Dataset Information: Crop Recommendation Dataset
+
+Source: https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
+
+Features:
+- N: Ratio of Nitrogen content in soil
+- P: Ratio of Phosphorous content in soil
+- K: Ratio of Potassium content in soil
+- temperature: Average temperature in Celsius
+- humidity: Average relative humidity in %
+- ph: pH value of the soil
+- rainfall: Average rainfall in mm
+
+Target Variable:
+- label: Crop name (22 crop classes)
+
+Example Crops:
+rice, maize, chickpea, kidneybeans, pigeonpeas, mothbeans, mungbean,
+blackgram, lentil, pomegranate, banana, mango, grapes, watermelon,
+muskmelon, apple, orange, papaya, coconut, cotton, jute, coffee
+
+Dataset Size:
+- Rows: 2200
+- Columns: 8 features + 1 label
+
+Purpose:
+This dataset helps build a machine learning model to predict the most suitable crop 
+based on soil nutrients and environmental conditions.
